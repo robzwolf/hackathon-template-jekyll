@@ -75,3 +75,13 @@ height: 100%; width: 100%;
   font-weight: lighter;
   font-size: 5;
 }
+
+.btn.sky-blue-btn {
+  background-color: #44B8EB;
+  box-shadow: 0 5px rgb(0, 115, 161);
+
+  &:hover {
+    background-color: #8ad1f0;
+    box-shadow: 0 5px rgb(79, 164, 198);
+  }
+}
