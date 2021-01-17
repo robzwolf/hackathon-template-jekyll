@@ -1,19 +1,35 @@
 # Hackathon Jekyll Template
 
-[Check out the demo site](https://alex-cd.github.io/hackathon-template-jekyll/)
+[Check out the demo site](https://robbie.dev/hackathon-template-jekyll/)
 
 
 Forked from [the Royal Hackaway website](https://github.com/royalhackaway/royalhackaway.github.io).
 
-### What it is
+## Quick Start
 
-A starting point for hackathon organisers to build websites for their events.
-Plop in some event files, and this jekyll site will do the rest.
+### Install Jekyll on macOS
+Note: The following installation instructions are for macOS only.
 
-Forked from the [Royal Hackaway](https://github.com/royalhackaway/royalhackaway.github.io) website, which I rebuilt for 2018-19 hackathon season.
+1. Install Ruby using [rbenv](https://jekyllrb.com/docs/installation/macos/#rbenv).
+2. Install [Jekyll](https://jekyllrb.com/docs/installation/macos/#install-jekyll).
 
+### Boot Site
+Note: These instructions apply to all operating systems.
 
-### What it's built with
+1. Install the jekyll and bundler gems.
+   ```
+   gem install jekyll bunder
+   ```
+2. Install more dependencies
+   ```
+   bundle install
+   ```
+3. Build the site and make it available on a local server with live reload.
+   ```
+   bundle exec jekyll serve --livereload
+   ```
+
+## What it's built with
 
 Written in: HTML, Javascript, CSS
 (_I don't think I need to link these..._)
