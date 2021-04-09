@@ -1,9 +1,9 @@
-# Hackathon Jekyll Template
+# Hack the Sky
 
-[Check out the demo site](https://robbie.dev/hackathon-template-jekyll/)
+[Check out the demo site](http://hack-the-sky.gh.robbie.dev/)
 
 
-Forked from [the Royal Hackaway website](https://github.com/royalhackaway/royalhackaway.github.io).
+Forked from [Hackathon Template Jekyll](https://github.com/Alex-CD/hackathon-template-jekyll).
 
 ## Quick Start
 
